@@ -1,1 +1,2 @@
-nombre = "Menu Principal"
+nombre = "Menu"
+Direccion = "Barranquilla"
